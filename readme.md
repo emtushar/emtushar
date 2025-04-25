@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Kaushik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MERN Stack Developer passionate about building scalable full-stack applications. Experienced in crafting responsive
+UIs, RESTful APIs, and integrating real-time features. Eager to contribute to modern, user-focused web projects while
+continuously improving technical and collaborative skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
