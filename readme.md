@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **kaushiktushar6892@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emtushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emtushar" height="30" width="40" /></a>
